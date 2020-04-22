@@ -30,11 +30,11 @@ $(document).ready(function () {
 			color: "#c1c1c1"
 		},
 		{
-			title: "I Fall Apart",
-			artist: "Post Malone",
-			cover: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/stoney-cover-album.jpg",
-			audioFile: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/Post%20Malone%20-%20I%20Fall%20Apart.mp3",
-			color: "#cd4829"
+			title: "Dance Monkey",
+			artist: "Tones and I",
+			cover: "/images/220px-Dance_Monkey_by_Tones_and_I.jpg",
+			audioFile: "/music/Tones and I - Dance Monkey (Lyrics).mp3",
+			color: "#fd8378"
 		},
 		{
 			title: "Fireproof",
@@ -42,6 +42,14 @@ $(document).ready(function () {
 			cover: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/fireproof-album-cover.jpeg",
 			audioFile: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/308622/VAX%20-%20Fireproof%20Feat%20Teddy%20Sky.mp3",
 			color: "#5d0126"
+		}
+		,
+		{
+			title: "Another Love",
+			artist: "Tom Odell",
+			cover: "/images/maxresdefault (2).jpg",
+			audioFile: "/music/Tom Odell - Another Love (Lyrics) Zwette Remix.mp3",
+			color: "#383838"
 		}
 	];
 	
